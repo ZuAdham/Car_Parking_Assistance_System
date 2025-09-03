@@ -9,7 +9,7 @@ The system provides **real-time audio feedback** via a buzzer, helping drivers p
 
 ### 1. Distance Measurement
 - Ultrasonic Sensor (HC-SR04): Continuously measures the distance between the car and obstacles.  
-- Microcontroller (ATmega / TM4C): Processes sensor data and triggers alerts.  
+- Microcontroller (ATmega32): Processes sensor data and triggers alerts.  
 
 **Functionality**  
 - Sends ultrasonic pulses and calculates distance based on echo return time.  
