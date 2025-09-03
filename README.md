@@ -1,10 +1,3 @@
-# Car Parking Assistance System
-
-## Repo Description
-Car Parking Assistance System using ultrasonic sensors and buzzer alerts, built on a microcontroller platform to enhance vehicle safety during parking.
-
----
-
 ## Overview
 Welcome to the Car Parking Assistance System!  
 This project enhances vehicle safety and convenience by detecting obstacles during parking using **ultrasonic sensors**.  
